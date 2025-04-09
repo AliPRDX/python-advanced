@@ -1,4 +1,4 @@
-import xml.etree.ElementTree as ET
+import xmltodict
 
 
 def extract_names():
