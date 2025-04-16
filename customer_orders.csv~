@@ -1,0 +1,7 @@
+customer_name,order_id,items,order_date,total_price
+Reza Ahmadi,ORD123456,Sport Shoes,2025-04-16,1220000
+Reza Ahmadi,ORD123456,Nike T-shirt,2025-04-16,1220000
+Sara Jafari,ORD123457,Leather Bag,2025-04-15,780000
+Mehdi Rostami,ORD123458,Gaming Mouse,2025-04-14,1200000
+Mehdi Rostami,ORD123458,Mechanical Keyboard,2025-04-14,1200000
+Elnaz Karimi,ORD123459,Perfume,2025-04-13,460000
